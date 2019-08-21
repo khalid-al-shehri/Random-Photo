@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sections">
+        <item >Random</item>
+        <item >Abstract</item>
+        <item >Animals</item>
+        <item >Business</item>
+        <item >Cats</item>
+        <item >City</item>
+        <item >Food</item>
+        <item >Night Life</item>
+        <item >Fashion</item>
+        <item >People</item>
+        <item >Nature</item>
+        <item >Sports</item>
+        <item >Technics</item>
+        <item >Transport</item>
+    </string-array>
+</resources>
